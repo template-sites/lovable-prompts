@@ -1,0 +1,65 @@
+{
+  "name": "PoolPro",
+  "tagline": "Professional Pool Service Management",
+  "description": "The all-in-one platform for pool service professionals. Manage routes, log chemical readings, and get paid faster.",
+  "terminology": {
+    "session": "Service Visit",
+    "worker": "Technician",
+    "client": "Pool Owner",
+    "clientDetails": "Pool Details",
+    "trackingFeature": "Service Log",
+    "schedule": "Route"
+  },
+  "pricing": {
+    "starter": {
+      "name": "Starter",
+      "price": 29,
+      "period": "month",
+      "description": "For solo operators",
+      "pools": 50,
+      "technicians": 1,
+      "features": [
+        "Up to 50 pools",
+        "1 technician",
+        "Service logging",
+        "Basic invoicing",
+        "Email support"
+      ]
+    },
+    "pro": {
+      "name": "Pro",
+      "price": 79,
+      "period": "month",
+      "description": "For growing businesses",
+      "pools": 150,
+      "technicians": 3,
+      "popular": true,
+      "features": [
+        "Up to 150 pools",
+        "3 technicians",
+        "Route optimization",
+        "Customer portal",
+        "Photo service reports",
+        "Chemical tracking",
+        "Priority support"
+      ]
+    },
+    "team": {
+      "name": "Team",
+      "price": 149,
+      "period": "month",
+      "description": "For larger operations",
+      "pools": 300,
+      "technicians": 7,
+      "features": [
+        "Up to 300 pools",
+        "7 technicians",
+        "Everything in Pro",
+        "API access",
+        "White-label reports",
+        "Dedicated support",
+        "Custom integrations"
+      ]
+    }
+  }
+}
