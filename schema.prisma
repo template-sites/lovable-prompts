@@ -1,0 +1,133 @@
+// This is for reference only - shows the data model
+
+model Customer {
+  id               String    @id
+  businessId       String
+  firstName        String
+  lastName         String
+  email            String?
+  phone            String?
+  preferredContact String    @default("email")
+  status           String    @default("active")
+  balanceCents     Int       @default(0)
+  createdAt        DateTime  @default(now())
+  pools            Pool[]
+  invoices         Invoice[]
+}
+
+model Pool {
+  id               String   @id
+  businessId       String
+  customerId       String
+  name             String   @default("Main Pool")
+  type             String   @default("INGROUND")
+  surface          String?
+  volume           Int?
+  isSaltwater      Boolean  @default(false)
+  hasHeater        Boolean  @default(false)
+  equipment        Json?
+  address          Json
+  gateCode         String?
+  accessNotes      String?
+  serviceDay       String?
+  serviceFrequency String   @default("WEEKLY")
+  servicePriceCents Int     @default(0)
+  status           String   @default("active")
+  customer         Customer @relation(fields: [customerId], references: [id])
+  serviceVisits    ServiceVisit[]
+  serviceLogs      ServiceLog[]
+}
+
+model Technician {
+  id           String   @id
+  businessId   String
+  name         String
+  email        String?
+  phone        String?
+  photoUrl     String?
+  cpoCertified Boolean  @default(false)
+  isActive     Boolean  @default(true)
+  routes       Route[]
+  serviceVisits ServiceVisit[]
+}
+
+model ServiceVisit {
+  id               String   @id
+  businessId       String
+  poolId           String
+  technicianId     String?
+  routeId          String?
+  scheduledDate    DateTime
+  scheduledTime    String?
+  estimatedMinutes Int      @default(30)
+  serviceType      String   @default("WEEKLY")
+  status           String   @default("SCHEDULED")
+  arrivedAt        DateTime?
+  completedAt      DateTime?
+  basePriceCents   Int      @default(0)
+  totalCents       Int      @default(0)
+  notes            String?
+  skipReason       String?
+  pool             Pool     @relation(fields: [poolId], references: [id])
+  technician       Technician? @relation(fields: [technicianId], references: [id])
+  route            Route?   @relation(fields: [routeId], references: [id])
+  serviceLog       ServiceLog?
+}
+
+model ServiceLog {
+  id              String   @id
+  businessId      String
+  serviceVisitId  String   @unique
+  poolId          String
+  technicianId    String
+  phLevel         Float?
+  chlorineLevel   Float?
+  alkalinity      Float?
+  calciumHardness Float?
+  cyanuricAcid    Float?
+  saltLevel       Float?
+  waterTemp       Float?
+  chemicalsAdded  Json?
+  tasksCompleted  Json?
+  beforePhotos    Json?
+  afterPhotos     Json?
+  techNotes       String?
+  issuesFound     String?
+  pumpPressure    Float?
+  filterStatus    String?
+  createdAt       DateTime @default(now())
+  serviceVisit    ServiceVisit @relation(fields: [serviceVisitId], references: [id])
+  pool            Pool     @relation(fields: [poolId], references: [id])
+}
+
+model Route {
+  id             String   @id
+  businessId     String
+  technicianId   String
+  date           DateTime
+  name           String?
+  status         String   @default("PLANNED")
+  optimizedOrder Json?
+  estimatedMiles Float?
+  estimatedMinutes Int?
+  technician     Technician @relation(fields: [technicianId], references: [id])
+  visits         ServiceVisit[]
+}
+
+model Invoice {
+  id            String   @id
+  businessId    String
+  customerId    String
+  reference     String   @unique
+  periodStart   DateTime
+  periodEnd     DateTime
+  lineItems     Json
+  subtotalCents Int
+  taxCents      Int      @default(0)
+  totalCents    Int
+  status        String   @default("DRAFT")
+  dueDate       DateTime
+  sentAt        DateTime?
+  paidAt        DateTime?
+  customer      Customer @relation(fields: [customerId], references: [id])
+}
