@@ -154,3 +154,120 @@ Come meet us! Tour the studio, chat with a teacher, and see if we're the right f
 [Embed Google Map of studio location]
 
 Free parking available behind the building. Enter through the blue door on Oak Street.
+
+---
+
+## Programs Page
+
+### Our Programs
+
+#### Piano Lessons
+Our most popular program! Learn classical, pop, or both. Perfect for beginners and advancing students.
+- Ages 5 and up
+- 30 or 45-minute lessons
+- Recital opportunities
+
+#### Guitar & Ukulele
+Acoustic guitar for all ages. Ukulele is perfect for little hands getting started!
+- Ages 6 and up (Guitar)
+- Ages 4 and up (Ukulele)
+- Learn your favorite songs
+
+#### Violin & Viola
+Beautiful strings for dedicated students. Suzuki method available for young learners.
+- Ages 5 and up
+- Instrument rental assistance available
+- Chamber music opportunities
+
+#### Voice Lessons
+Develop vocal technique and confidence. Broadway, pop, or classical styles.
+- Ages 8 and up
+- Performance coaching
+- Musical theater prep
+
+#### Drums & Percussion
+Rock out with rhythm! Electronic and acoustic drum lessons available.
+- Ages 7 and up
+- Band opportunities
+- Popular with teens
+
+#### Little Musicians (Ages 4-6)
+Introduction to music through play! Group classes that explore rhythm, singing, and instrument basics.
+- 8-week sessions
+- Small groups of 4-6 kids
+- Perfect preparation for private lessons
+
+---
+
+## Privacy Policy Page
+
+### Privacy Policy
+
+**Last Updated:** January 2026
+
+Riverdale Music Studio ("we," "us," or "our") is committed to protecting the privacy of our students and their families.
+
+#### Information We Collect
+- Parent/guardian contact information
+- Student names and ages
+- Lesson scheduling and attendance records
+- Payment information (processed securely)
+- Emergency contact information
+
+#### How We Use Your Information
+- To schedule and conduct lessons
+- To communicate about your child's progress
+- To process payments
+- To send studio newsletters and updates
+- To ensure student safety
+
+#### Photos and Videos
+We may take photos/videos during recitals and events. Parents can opt out at any time.
+
+#### Data Security
+We store your information securely and never sell it to third parties.
+
+#### Children's Privacy
+We take extra care with information about minors. Parents can access and request deletion of their child's data.
+
+#### Contact Us
+For privacy questions: privacy@riverdalemusicstudio.com
+
+---
+
+## Terms of Service Page
+
+### Terms of Service
+
+**Last Updated:** January 2026
+
+Welcome to Riverdale Music Studio! These terms govern your use of our services.
+
+#### Lesson Policies
+- 24-hour cancellation notice required for makeup lesson
+- Makeup lessons must be used within 30 days
+- No-shows will not be rescheduled without charge
+- Monthly tuition is due on the 1st of each month
+
+#### Payment Terms
+- We accept credit cards, checks, and cash
+- 10% sibling discount applies to second child
+- Returned check fee: $25
+
+#### Studio Rules
+- Parents may observe lessons (please be quiet!)
+- Practice rooms are for enrolled students only
+- Please arrive 5 minutes before lesson time
+- Sick students should stay home (we'll reschedule!)
+
+#### Recital Participation
+- Two recitals per year (winter and spring)
+- Participation is encouraged but optional
+- No additional fee for recitals
+
+#### Termination
+- 30-day notice required to discontinue lessons
+- Unused lessons may be refunded at our discretion
+
+#### Contact
+For questions: hello@riverdalemusicstudio.com

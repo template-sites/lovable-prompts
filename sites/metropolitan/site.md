@@ -196,3 +196,145 @@ Saturday: 10am - 2pm (by appointment)
 - Years of study
 - Goals and aspirations
 - Preferred audition date range
+
+---
+
+## Programs Page
+
+### Academic Programs
+
+#### Private Instruction
+One-on-one lessons with our distinguished faculty. Available for all instruments and voice.
+- Weekly lessons (30, 45, or 60 minutes)
+- Customized curriculum
+- Regular progress assessments
+
+#### Theory & Ear Training
+Essential musicianship skills for all serious students.
+- Theory I-IV sequence
+- Sight-singing & ear training
+- Harmony & counterpoint
+- Score analysis
+
+#### Chamber Music
+Coached ensemble experience for intermediate and advanced students.
+- String quartets
+- Piano trios
+- Wind ensembles
+- Vocal chamber music
+
+#### Composition
+Study the craft of music composition with our published faculty.
+- Private composition lessons
+- Analysis of masterworks
+- Workshop performances
+
+### Diploma Programs
+
+#### Junior Diploma
+For high school students pursuing pre-conservatory training.
+- Private lessons with Senior Faculty
+- Theory sequence required
+- Annual jury evaluation
+- Performance opportunities
+
+#### Artist Diploma
+Post-secondary certificate for serious adult students.
+- Intensive study with Artistic Director
+- Recital requirement
+- Masterclass participation
+- Professional development
+
+### Masterclasses & Workshops
+Throughout the year, we host visiting artists for special masterclasses.
+- Open to enrolled students
+- Performance and observer options
+- Past guests include members of major orchestras
+
+---
+
+## Privacy Policy Page
+
+### Privacy Policy
+
+**Last Updated:** January 2026
+
+Metropolitan Conservatory ("we," "us," or "our") is committed to protecting the privacy of our students, faculty, and visitors.
+
+#### Information We Collect
+- Contact and demographic information
+- Academic and musical background
+- Audition recordings and evaluations
+- Financial information for tuition processing
+- Attendance and academic records
+
+#### How We Use Your Information
+- To evaluate applications and auditions
+- To administer lessons and programs
+- To process tuition and fees
+- To communicate about conservatory matters
+- To maintain academic records
+
+#### Data Retention
+We retain student records for educational and archival purposes. Prospective student information is retained for 2 years.
+
+#### Third-Party Sharing
+We do not sell personal information. We may share information with:
+- Payment processors (for tuition)
+- Accreditation bodies (as required)
+- Emergency contacts (when necessary)
+
+#### Your Rights
+You may request access to, correction of, or deletion of your personal data by contacting our admissions office.
+
+#### Contact
+Privacy Officer: privacy@metropolitanconservatory.edu
+
+---
+
+## Terms of Service Page
+
+### Terms of Service
+
+**Last Updated:** January 2026
+
+These terms govern enrollment and participation at Metropolitan Conservatory.
+
+#### Enrollment Terms
+- Admission is by audition only
+- Enrollment is for one academic semester minimum
+- Continued enrollment requires satisfactory progress
+
+#### Tuition & Fees
+- Tuition is due at the start of each semester
+- No refunds after the second week of instruction
+- Scholarship recipients must maintain satisfactory progress
+- Late payment fee: $50
+
+#### Attendance Policies
+- Students must attend all scheduled lessons
+- 48-hour cancellation notice required
+- Excessive absences may result in dismissal
+- No makeup lessons for unexcused absences
+
+#### Academic Standards
+- Students must demonstrate progress at jury evaluations
+- Theory courses required for diploma track
+- Performance at student recitals expected
+
+#### Code of Conduct
+- Professional behavior expected at all times
+- Respect for faculty, staff, and fellow students
+- Proper care of conservatory instruments and facilities
+
+#### Intellectual Property
+- Lesson materials are for personal study only
+- Recording of lessons with instructor permission only
+- Student compositions remain property of the student
+
+#### Termination
+- Conservatory may dismiss students for misconduct or lack of progress
+- Students may withdraw with written notice
+
+#### Contact
+For questions: registrar@metropolitanconservatory.edu

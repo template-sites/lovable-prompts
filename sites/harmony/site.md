@@ -135,3 +135,108 @@ A computer or tablet with a camera and microphone. A decent internet connection.
 
 **Can I switch instructors?**
 Absolutely. If it's not the right fit, we'll match you with someone new.
+
+---
+
+## Programs Page
+
+### All Programs Overview
+
+#### Guitar Lessons
+From acoustic strumming to electric shredding. Learn your favorite songs while building proper technique.
+- Acoustic Guitar
+- Electric Guitar
+- Bass Guitar
+- Beginner to Advanced
+
+#### Piano & Keyboard
+Classical foundations meet modern styles. Learn to read music or play by ear.
+- Classical Piano
+- Contemporary/Pop Piano
+- Jazz Piano
+- Music Theory
+
+#### Voice & Songwriting
+Find your voice and express yourself. From pop to musical theater.
+- Contemporary Voice
+- Musical Theater
+- Songwriting
+- Recording Techniques
+
+#### Music Production
+Create beats, mix tracks, and produce your own music using professional software.
+- Ableton Live
+- Logic Pro
+- FL Studio
+- Mixing & Mastering
+
+---
+
+## Privacy Policy Page
+
+### Privacy Policy
+
+**Last Updated:** January 2026
+
+Harmony Digital Music Academy ("we," "us," or "our") respects your privacy. This Privacy Policy explains how we collect, use, and protect your personal information.
+
+#### Information We Collect
+- Contact information (name, email, phone)
+- Lesson preferences and scheduling data
+- Payment information (processed securely via Stripe)
+- Lesson recordings (with your consent)
+- Practice tracking data from our app
+
+#### How We Use Your Information
+- To provide and improve our services
+- To communicate about lessons and scheduling
+- To process payments
+- To send relevant updates and offers (opt-out available)
+
+#### Data Security
+We use industry-standard encryption and security measures to protect your data.
+
+#### Your Rights
+You may request access to, correction of, or deletion of your personal data at any time.
+
+#### Contact Us
+For privacy inquiries: privacy@harmonydigital.com
+
+---
+
+## Terms of Service Page
+
+### Terms of Service
+
+**Last Updated:** January 2026
+
+Welcome to Harmony Digital Music Academy. By using our services, you agree to these terms.
+
+#### Lesson Policies
+- 24-hour cancellation notice required for full refund
+- Late cancellations may be charged at 50%
+- No-shows will be charged in full
+- Lessons are non-transferable
+
+#### Payment Terms
+- Payment due before lesson starts
+- Package payments are non-refundable but may be paused
+- We accept credit cards and PayPal
+
+#### Code of Conduct
+- Respectful behavior expected from all students
+- Video must be enabled during online lessons
+- Recording lessons for personal review is permitted
+
+#### Intellectual Property
+- Lesson materials are for personal use only
+- Do not redistribute course content
+
+#### Limitation of Liability
+Harmony Digital Music Academy is not liable for technical issues beyond our control.
+
+#### Changes to Terms
+We may update these terms. Continued use constitutes acceptance.
+
+#### Contact
+For questions: legal@harmonydigital.com
